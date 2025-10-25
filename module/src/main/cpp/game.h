@@ -5,6 +5,6 @@
 #ifndef ZYGISK_IL2CPPDUMPER_GAME_H
 #define ZYGISK_IL2CPPDUMPER_GAME_H
 
-#define GamePackageName "com.game.packagename"
+#define GamePackageName "just"
 
 #endif //ZYGISK_IL2CPPDUMPER_GAME_H
